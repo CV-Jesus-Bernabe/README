@@ -11,6 +11,8 @@
 
 * Estudios: FP Basica de Informatica de Oficina
 
+# Trabajos
+[Enlace a unos pocos trabajos de Excel sencillos](trabajos.md)
 
 # Idiomas
 
